@@ -19,14 +19,17 @@
   },
   "homepage": "https://github.com/nishantpatel227/nishant-site#readme",
   "dependencies": {
+    "bootstrap": "^3.4.1",
     "lodash": "^4.17.19",
     "normalize.css": "^8.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^9.8.6",
     "css-loader": "^4.2.0",
+    "postcss-import": "^12.0.1",
     "postcss-loader": "^3.0.0",
     "postcss-nested": "^4.2.3",
+    "postcss-sass": "^0.4.4",
     "postcss-simple-vars": "^5.0.2",
     "style-loader": "^1.2.1",
     "webpack": "^4.44.1",
