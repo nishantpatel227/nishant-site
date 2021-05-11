@@ -20,7 +20,7 @@
   "homepage": "https://github.com/nishantpatel227/nishant-site#readme",
   "dependencies": {
     "bootstrap": "^3.4.1",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "normalize.css": "^8.0.1"
   },
   "devDependencies": {
